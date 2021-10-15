@@ -237,8 +237,7 @@
                                                 <div class="col-12">
                                                    <span>Author - </span>
                                                    <asp:Label ID="Label2" runat="server" Font-Bold="True" Text='<%# Eval("author_name") %>'></asp:Label>
-                                                   &nbsp;| <span><span>&nbsp;</span>Genre - </span>
-                                                   <asp:Label ID="Label3" runat="server" Font-Bold="True" Text='<%# Eval("genre") %>'></asp:Label>
+                                                   
                                                    &nbsp;| 
                                                    <span>
                                                       Language -<span>&nbsp;</span>

@@ -21,21 +21,21 @@
                <center>
                    <img width="150px" src="images/digital-inventory.png" />
                   <h4>Digital Book Inventory</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                  <p class="text-justify">In that feature you can easily see books you need.</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
                    <img src="images/searchbook.png" width="150px" />
                   <h4>Search Books</h4>
-                  <p class="text-justify">In that u can easily search your Books which ever u liked.</p>
+                  <p class="text-justify">In that yoy can easily search your Books which ever you liked.</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
                   <img src="images/defaulters-list.png" width="150px" />
                   <h4>Defaulter List</h4>
-                  <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
+                  <p class="text-justify">Default Page</p>
                </center>
             </div>
          </div>
@@ -59,14 +59,14 @@
                <center>
                   <img width="150px" src="images/sign-up.png" />
                   <h4>Sign Up</h4>
-                  <p class="text-justify"></p>
+                  <p class="text-justify">Sign up your Account to get books.</p>
                </center>
             </div>
             <div class="col-md-4">
                <center>
                   <img width="150px" src="images/searchbook.png" />
                   <h4>Search Books</h4>
-                  <p class="text-justify"></p>
+                  <p class="text-justify">You can easily search your book.</p>
                </center>
             </div>
             <div class="col-md-4">
